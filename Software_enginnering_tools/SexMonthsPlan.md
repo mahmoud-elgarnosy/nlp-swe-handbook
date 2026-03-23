@@ -29,12 +29,12 @@
 *Micro-learning session: 30 mins daily.*
 *Pick **ONE** topic below, study it daily for 2–3 weeks, then rotate to the next.*
 
-1. **Git (Version Control)** 🛠️ *Current Focus*
-* [freeCodeCamp.org](https://www.youtube.com/watch?v=zTjRZNkhiEU)
+1. **Git (Version Control)** 🛠️ ✅
+* [Big Data بالعربي](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=927s)
 
 
-2. **Docker (Containerization)** 🐳
-* [freeCodeCamp.org](https://www.youtube.com/watch?v=Wf2eSG3owoA)
+2. **Docker (Containerization)** 🐳 *Current Focus*
+* [Big Data بالعربي](https://www.youtube.com/watch?v=PrusdhS2lmo)
 
 
 3. **Problem Solving** 🧠
@@ -80,8 +80,8 @@
 | Status | Category | Resource / Action |
 | --- | --- | --- |
 | ✅ | **IDEs** | [Big Data بالعربي](https://www.youtube.com/watch?v=DsJOSKyxqMc) |
-| 🔄 | **Version Control (Git)** | [freeCodeCamp.org](https://www.youtube.com/watch?v=zTjRZNkhiEU) |
-| ⬜ | **Containerization (Docker)** | <br>[Docker- TechWorld with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE)<br> <br>[Kubernetes - TechWorld with Nana](https://www.youtube.com/watch?v=X48VuDVv0do)<br>|
+| ✅ | **Version Control (Git)** | [Big Data بالعربي](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=927s) |
+| 🔄 | **Containerization (Docker)** | [Big Data بالعربي](https://www.youtube.com/watch?v=PrusdhS2lmo) |
 | ⬜ | **Networking & Security** | [Networking & Security Roadmap](./Networking%26security.md) |
 | ⬜ | **Problem Solving** | [Algorithms Unplugged](./Algorithms/Algorithms_Unplugged.pdf) |
 | ⬜ | **System Design** | [System & Software Design Principles](./system_design%26principles/system_design%26software_design.md) |
